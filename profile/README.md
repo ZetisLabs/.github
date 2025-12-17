@@ -1,8 +1,6 @@
+![Banner](https://github.com/ZetisLabs/.github/public/logo-zetis-big-v1.png)
 <p align="center">
   <a href="https://zetislabs.com/">
-    <div align="center" height=72 style="background-color: #1A1A1A;">
-      <img src="https://github.com/ZetisLabs/.github/public/logo-zetis-big-v1.png" alt="Logo" width=200 height=200>
-    </div>
   </a>
 
   <h1 align="center">ZetisLabs</h1>
