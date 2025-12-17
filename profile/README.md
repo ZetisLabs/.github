@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://zetislabs.com/">
-    <div height=72 style="background-color: #1A1A1A;">
+    <rect height=72 style="background-color: #1A1A1A;">
       <img src="https://github.com/ZetisLabs/.github/public/logo-zetis-big-v1.png" alt="Logo" width=72 height=72>
-    </div>
+    </rect>
   </a>
 
-  <h3 align="center">ZetisLabs</h3>
+  <h1 align="center">ZetisLabs</h1>
 </p>
 
 ZetisLabs is your technical partner dedicated to operational efficiency. We analyze your business workflows to identify repetitive tasks and deploy pragmatic, high-ROI automation solutions.
