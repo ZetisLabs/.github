@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://zetislabs.com/">
     <div height=72 style="background-color: #1A1A1A;">
-      <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+      <img src="https://github.com/ZetisLabs/.github/public/logo-zetis-big-v1.png" alt="Logo" width=72 height=72>
     </div>
   </a>
 
