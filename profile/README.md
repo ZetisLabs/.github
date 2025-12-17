@@ -1,4 +1,4 @@
-![Banner](https://github.com/ZetisLabs/.github/public/logo-zetis-big-v1.png)
+![Banner](https://github.com/ZetisLabs/.github/blob/main/public/logo-zetis-big-v1.png)
 <p align="center">
   <a href="https://zetislabs.com/">
   </a>
